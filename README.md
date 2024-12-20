@@ -3,6 +3,11 @@
 
 Este repositório contém um conjunto de funções desenvolvidas para explorar, descriptografar e verificar diferentes tipos de algoritmos de criptografia, além de gerar hashes utilizando o módulo `hashlib` e outras bibliotecas de Python.
 
+## Aviso
+
+Este código foi desenvolvido com fins educacionais e não deve ser utilizado para atividades ilegais ou não autorizadas. O autor não se responsabiliza pelo uso indevido deste software.
+
+
 O objetivo principal é fornecer uma abordagem unificada para testar e manipular diversos métodos de criptografia e codificação. É ideal para estudos em segurança da informação e cibersegurança.
 
 ## Funcionalidades
@@ -65,6 +70,3 @@ key = b"suachave"  # Chave para AES, DES e Blowfish
 try_all_methods(text, key)
 
 
-## Aviso
-
-Este código foi desenvolvido com fins educacionais e não deve ser utilizado para atividades ilegais ou não autorizadas. O autor não se responsabiliza pelo uso indevido deste software.
