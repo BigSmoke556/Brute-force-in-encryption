@@ -1,0 +1,21 @@
+# Requisitos de bibliotecas para criptografia e utilidades
+
+# PyCryptodome: Implementa AES, DES, Blowfish
+pycryptodome==3.21.0
+
+# Cryptography: Fornece Fernet e utilidades adicionais
+cryptography==41.0.3
+
+# PyNaCl: Biblioteca para criptografia moderna
+pynacl==1.5.0
+
+# bcrypt: Hash seguro para senhas
+bcrypt==4.0.1
+
+# M2Crypto: Suporte adicional para criptografia
+M2Crypto==0.38.0
+
+# CaesarCipher: Implementa a cifra de César
+caesarcipher==0.1.4
+# Dependência instalada diretamente do GitHub para suporte extendido
+# git+https://github.com/obheda12/caesarcipher.git
